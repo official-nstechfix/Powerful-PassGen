@@ -51,7 +51,7 @@ Getting started with Powerful Password Generator is simple. Follow these steps t
 1. **Download or Clone the Repository**:
    - To clone the repository using Git, run:
      ```bash
-     git clone https://github.com/your-username/powerful-password-generator.git
+     git https://github.com/official-nstechfix/Powerful-PassGen.git
      ```
    - Alternatively, you can download the ZIP file from GitHub and extract it to a directory on your computer.
 
@@ -89,7 +89,7 @@ We welcome contributions to enhance the Powerful Password Generator extension! I
 
 ## License
 
-This project is licensed under the MIT License, allowing you to freely use, modify, and distribute the software. For complete details, see the [LICENSE](LICENSE) file in the repository.
+This project is licensed under the MIT License, allowing you to freely use, modify, and distribute the software.
 
 ## Contact
 
