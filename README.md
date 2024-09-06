@@ -97,7 +97,7 @@ For any questions, feedback, or issues related to the Powerful Password Generato
 
 - **Issues**: [Report an Issue](https://github.com/official-nstechfix/Powerful-PassGen)
 - **Pull Requests**: [Submit a Pull Request](https://github.com/official-nstechfix/Powerful-PassGen/pulls)
-- **Email**: For direct communication, you can contact us at [nstechfix.com](nstechfix.com) (Replace with your actual email address)
+- **Email**: For direct communication, you can contact us at [nstechfix.com](nstechfix.com) 
 
 ---
 
