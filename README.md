@@ -1,6 +1,6 @@
 # Powerful Password Generator
 
-![Powerful Password Generator Icon](icons/icon128.png)
+![Powerful Password Generator Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Powerful%20PassGen/icon128.png)
 
 ## Overview
 
@@ -14,31 +14,31 @@ The extension also features a sleek design with support for both light and dark 
 
 - **Password Length**: Specify the exact length of the password to meet different security requirements. Whether you need a short and simple password or a long and complex one, this extension allows you to customize the length from 8 to 64 characters.
   
-  ![Length Icon](https://img.icons8.com/ios/50/000000/length.png)
+  ![Length Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Powerful%20PassGen/icons8_ruler_128px.png)
 
 - **Character Types**: Select the types of characters to include in your password:
   - **Letters**: Include both uppercase and lowercase letters to enhance complexity. 
-    ![Letters Icon](https://img.icons8.com/ios/50/000000/alphabet.png)
+    ![Letters Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Powerful%20PassGen/icons8_text_color_128px.png)
   - **Numbers**: Add numeric digits (0-9) for added security.
-    ![Numbers Icon](https://img.icons8.com/ios/50/000000/numbers.png)
+    ![Numbers Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Powerful%20PassGen/icons8_1st_128px.png)
   - **Symbols**: Incorporate special characters (!@#$%^&*()_+<>?) to increase password strength.
-    ![Symbols Icon](https://img.icons8.com/ios/50/000000/symbols.png)
+    ![Symbols Icon](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Powerful%20PassGen/icons8_leo_128px.png)
 
 ### Copy to Clipboard
 
 With a single click, you can copy the generated password to your clipboard. The extension provides immediate visual feedback to confirm that the password has been copied successfully. 
 
-![Copy Icon](https://img.icons8.com/ios/50/000000/copy.png)
+![Copy Icon]
 
 ### Theme Toggle
 
 Customize your user experience by switching between light and dark modes. The extension remembers your theme preference, applying it automatically each time you open the popup.
 
 - **Dark Mode**: Ideal for low-light environments, dark mode reduces eye strain and conserves battery life on OLED screens.
-  ![Dark Mode Icon](https://img.icons8.com/ios/50/000000/night-mode.png)
+  ![Dark Mode Icon]
   
 - **Light Mode**: Bright and clear, light mode is suitable for well-lit environments.
-  ![Light Mode Icon](https://img.icons8.com/ios/50/000000/sun.png)
+  ![Light Mode Icon]
 
 ### Responsive Design
 
@@ -85,7 +85,7 @@ We welcome contributions to enhance the Powerful Password Generator extension! I
 - **Write Tests**: Ensure that your contributions include tests to verify their functionality.
 - **Submit a Pull Request**: Provide a clear description of your changes and submit a pull request for review. Include any relevant information or context that will help reviewers understand your contributions.
 
-For more detailed guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file, if available.
+
 
 ## License
 
@@ -95,9 +95,9 @@ This project is licensed under the MIT License, allowing you to freely use, modi
 
 For any questions, feedback, or issues related to the Powerful Password Generator extension, please reach out through the following channels:
 
-- **Issues**: [Report an Issue](https://github.com/your-username/powerful-password-generator/issues)
-- **Pull Requests**: [Submit a Pull Request](https://github.com/your-username/powerful-password-generator/pulls)
-- **Email**: For direct communication, you can contact us at [your-email@example.com](mailto:your-email@example.com) (Replace with your actual email address)
+- **Issues**: [Report an Issue](https://github.com/official-nstechfix/Powerful-PassGen)
+- **Pull Requests**: [Submit a Pull Request](https://github.com/official-nstechfix/Powerful-PassGen/pulls)
+- **Email**: For direct communication, you can contact us at [nstechfix.com](nstechfix.com) (Replace with your actual email address)
 
 ---
 
